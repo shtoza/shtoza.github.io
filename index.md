@@ -1,6 +1,6 @@
 # Welcome to Australia
 
-( Australian Coat of Arms)
+[Australian Coat of Arms](Australian_Coat_of_Arms.png)
 
 ## Australia is very far away, almost on the other side of the world. 
 
