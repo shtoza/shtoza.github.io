@@ -7,8 +7,8 @@
 ![Australia distance](Australia_distance.png)
 
 - Sydney, the biggest city in Australia is approximately 15,000 Kilometers away from Riga 
-- In comparison, Latvia is approximately 450 kilometres across.
-- This distance takes about one day in an airplane to get to.
+- To get to Australia would take one day in an airplane
+![Qantas-A380-Sydney.png](Qantas-A380-Sydney.png)
 
 ## Australia is a very big country.
 
