@@ -2,13 +2,12 @@
 
 ![Australian Coat of Arms](Australian_Coat_of_Arms.png)
 
- ### Australia is very far away from Latvia, almost on the other side of the world. 
+ ## Australia is very far away from Latvia, almost on the other side of the world. 
 
 ![Australia distance](Australia_distance.png)
 
-Sydney, the biggest city in Australia is approximately 15,000 Kilometers away from Riga 
-
-To get to Australia would take one day in an airplane
+- Sydney, the biggest city in Australia is approximately 15,000 Kilometers away from Riga 
+- To get to Australia would take one day in an airplane
 ![Qantas-A380-Sydney.png](Qantas-A380-Sydney.png)
 
 
