@@ -106,16 +106,19 @@ Australia is an island, seperated from the rest of the world, and so it has many
 ## Christmas
 
 In Australia, Christmastime happens in the middle of Summer. Also, there are no reindeer in Australia. So in Australia, Santa Claus uses Kangaroos to deliver presents.
-( Six White Boomers )
+![santa](santa.jpg)
 It is usual for families in Australia to have a barbeque at the beach for Christmas. 
+![santa2](santa2.jpg)
 
 ## Aboriginals
 
 The first people in Australia are known as Aboriginals. They have a very unique culture with lots of different languages, stories, and music. 
 
-One aboriginal musical instrument is called the didgeridoo
+One aboriginal musical instrument is called the didgeridoo, it sounds like this:
 
 ### Didgeridoo
+
+[https://www.youtube.com/watch?v=yG9ZX1FS20A](https://www.youtube.com/watch?v=_b-vI3Nf50g)
 
 (picture)
 
@@ -130,6 +133,8 @@ To play the didgeridoo, you do not simply blow air into it, instead you make a b
 In Aboriginal tradition, the Didgeridoo was a very important traditional instrument and used to share stories. The sounds of a didgeridoo can imitate the
 sounds of an animal, or nature, or some event. There are very many aboriginal stories and often they are shared through songs. One of those stories is about 
 Tidalik the frog, who drank all the water in the world
+
+https://www.bbc.co.uk/teach/school-radio/english-ks1-tiddalik-the-frog-part-1
 
 ## Demonstrations
 
