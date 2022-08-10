@@ -49,10 +49,12 @@ We have:
 And much more
 
 
-I am from a place called Cairns and there it is tropical. 
+I am from a place called Cairns and there it is tropical. Cairns looks like this:
+
+![cairns](cairns.jpg)
 [Google street view](https://goo.gl/maps/dnkMKbDFGKWau7Xq6)
-In Cairns are rainforests, coral reefs, and tropical islands. It is very different to other places in Australia. Cairns is also a sister city of Riga.
-(photos)
+In Cairns are rainforests, coral reefs, and tropical islands. It is very different to other places in Australia. 
+
 
 
 ## Animals
