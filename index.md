@@ -128,7 +128,7 @@ One aboriginal musical instrument is called the didgeridoo, it sounds like this:
 
 [https://www.youtube.com/watch?v=yG9ZX1FS20A](https://www.youtube.com/watch?v=_b-vI3Nf50g)
 
-(picture)
+![didgeridoo](didgeridoo.jpg)
 
 The didgeridoo is mostly made by nature. The people would walk through the forest and knock on tree trunks until they found one which was hollow. Then
 they would cut down the tree and dry it, and then painted or carved. The sound, or "voice" of the didgeridoo is thought to be the spirit of the tree.
@@ -142,7 +142,7 @@ In Aboriginal tradition, the Didgeridoo was a very important traditional instrum
 sounds of an animal, or nature, or some event. There are very many aboriginal stories and often they are shared through songs. One of those stories is about 
 Tidalik the frog, who drank all the water in the world
 
-https://www.bbc.co.uk/teach/school-radio/english-ks1-tiddalik-the-frog-part-1
+[Tidalik the frog](https://www.bbc.co.uk/teach/school-radio/english-ks1-tiddalik-the-frog-part-1)
 
 ## Demonstrations
 
