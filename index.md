@@ -36,11 +36,17 @@ We have:
 ![uluru](uluru.jpg)
 
 - Tropical Rainforest
+![daintree](daintree.jpg)
+
+- Coral Reefs
+
+![reef](reef.jpeg)
 
 And much more
 
 
 I am from a place called Cairns and there it is tropical. 
+Google street view
 In Cairns are rainforests, coral reefs, and tropical islands. It is very different to other places in Australia. Cairns is also a sister city of Riga.
 (photos)
 
