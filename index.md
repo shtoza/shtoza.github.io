@@ -58,7 +58,8 @@ I am from a place called Cairns and there it is tropical. Cairns looks like this
 
 ![cairns](cairns.jpg)
 [Google street view](https://goo.gl/maps/dnkMKbDFGKWau7Xq6)
-In Cairns are rainforests, coral reefs, and tropical islands. It is very different to other places in Australia. 
+
+In Cairns are rainforests, coral reefs, and tropical islands. It is much more wet and humid compared to other parts of Australia.
 
 
 
