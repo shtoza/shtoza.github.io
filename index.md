@@ -26,19 +26,23 @@ Even though Australia is mostly Desert there are many different climates to be f
 
 We have:
 
-- Snow
+###Snow
+
 ![winter](winter.jpeg)
 
-- Mountains
+###Mountains
+
 ![mountains](australia-blue-mountains-national-park.jpg)
 
-- Desert
+###Desert
+
 ![uluru](uluru.jpg)
 
-- Tropical Rainforest
+###Tropical Rainforest
+
 ![daintree](daintree.jpg)
 
-- Coral Reefs
+### Coral Reefs
 
 ![reef](reef.jpeg)
 
@@ -46,7 +50,7 @@ And much more
 
 
 I am from a place called Cairns and there it is tropical. 
-Google street view
+[Google street view](https://goo.gl/maps/dnkMKbDFGKWau7Xq6)
 In Cairns are rainforests, coral reefs, and tropical islands. It is very different to other places in Australia. Cairns is also a sister city of Riga.
 (photos)
 
@@ -56,17 +60,48 @@ In Cairns are rainforests, coral reefs, and tropical islands. It is very differe
 Australia is an island, seperated from the rest of the world, and so it has many unusual animals which are only found in Australia. Some of these animals include:
 
 - Kangaroo
+
+![kangaroo](kangaroo.jpeg)
+
 - Koala
+
+![koala](koala.jpg)
+
 - Emu
+
+![emu](emu.jpg)
+
 - Echidna
+
+![echidna](echidna.jpg)
+
 - Wombat
+
+![wombat](wombat.jpg)
+
 - Platypus
+
+![platypus](platypus.jpg)
+
 - Frill Necked Lizard
+
+![frill](frill.jpeg)
+
 - Cassowary
+
+![cassowary](cassowary.jpg)
+
 - Tasmanian Devil
+
+![tas](tas.jpg)
+
 - Sugar Glider
-- Dingo
+
+![sugar](sugar.jpg)
+
 - Kookaburra
+
+![kookaburra](kookaburra.jpg)
 
 ## Christmas
 
