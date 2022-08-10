@@ -61,7 +61,7 @@ Australia is an island, seperated from the rest of the world, and so it has many
 
 - Kangaroo
 
-![kangaroo](kangaroo.jpeg)
+![kangaroo](kangaroo.jpg)
 
 - Koala
 
