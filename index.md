@@ -112,7 +112,7 @@ It is usual for families in Australia to have a barbeque at the beach for Christ
 
 ## Aboriginals
 
-The first people in Australia are known as Aboriginals. They have a very unique culture with lots of different languages, stories, and music. 
+The first people in Australia are known as Aboriginals. Aboriginals arrived in Australia around 70,000 years ago. Europeans arrived in Australians around 200 years ago. Aboriginals have a very unique culture with lots of different languages, stories, and music. 
 
 One aboriginal musical instrument is called the didgeridoo, it sounds like this:
 
