@@ -61,47 +61,47 @@ In Cairns are rainforests, coral reefs, and tropical islands. It is very differe
 
 Australia is an island, seperated from the rest of the world, and so it has many unusual animals which are only found in Australia. Some of these animals include:
 
-- Kangaroo
+### Kangaroo
 
 ![kangaroo](kangaroo.jpg)
 
-- Koala
+### Koala
 
 ![koala](koala.jpg)
 
-- Emu
+### Emu
 
 ![emu](emu.jpg)
 
-- Echidna
+### Echidna
 
 ![echidna](echidna.jpg)
 
-- Wombat
+### Wombat
 
 ![wombat](wombat.jpg)
 
-- Platypus
+### Platypus
 
 ![platypus](platypus.jpg)
 
-- Frill Necked Lizard
+### Frill Necked Lizard
 
 ![frill](frill.jpeg)
 
-- Cassowary
+### Cassowary
 
 ![cassowary](cassowary.jpg)
 
-- Tasmanian Devil
+### Tasmanian Devil
 
 ![tas](tas.jpg)
 
-- Sugar Glider
+### Sugar Glider
 
 ![sugar](sugar.jpg)
 
-- Kookaburra
+### Kookaburra
 
 ![kookaburra](kookaburra.jpg)
 
