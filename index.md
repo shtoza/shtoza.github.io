@@ -26,15 +26,18 @@ Even though Australia is mostly Desert there are many different climates to be f
 
 We have:
 
-- Snow
+Snow
 !(winter)[winter.jpeg]
 
-- Mountains
-
+Mountains
+!(mountains)[australia-blue-mountains-national-park.jpg]
 
 - Desert
+!(uluru)[uluru.jpg]
+
 - Tropical Rainforest
-- Regular forest
+
+And much more
 
 
 I am from a place called Cairns and there it is tropical. 
