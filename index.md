@@ -12,28 +12,26 @@
 
 ## Australia is a very big country.
 
+![Australia_satellite_plane](Australia_satellite_plane.jpg)
+
 - Australia is the world's biggest island
 - Latvia could fit into Australia 120 times. 
-
-## Even though Australia is big, Australia has a small population compared to the size of the country
-
-- There are 25 million people in Australia
-- This is approximately 15 times the population of Latvia
-- There are countries in Europe with many more times more people than Australia 
+- Australia is mostly desert
+- Most people live in the green areas in cities.
+- There are 25 million people in Australia. This is approximately 15 times more people than in Latvia, but still a small number of people compared to how big Australia is.
 
 ## Climate
 
-( Map )
+Even though Australia is mostly Desert there are many different climates to be found in Australia
 
-Australia is mostly Desert
-
-
-
-Australia is a huge island with many different types of climate
 We have:
 
 - Snow
+!(winter)[winter.jpeg]
+
 - Mountains
+
+
 - Desert
 - Tropical Rainforest
 - Regular forest
