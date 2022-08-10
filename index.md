@@ -9,18 +9,20 @@
 
 ## Australia is a very big country.
 
-- Latvia could fit into Australia 120 times. Australia is the world's biggest island.
+- Australia is the world's biggest island
+- Latvia could fit into Australia 120 times. 
 
 ## Even though Australia is big, Australia has a small population compared to the size of the country
 
 - There are 25 million people in Australia
 - This is approximately 15 times the population of Latvia
 - There are countries in Europe with many more times more people than Australia 
-- This is because Australia is mostly desert, and most people live in cities.
 
-# Climate
+## Climate
 
-( Map 
+( Map )
+
+Australia is mostly Desert
 
 
 
@@ -34,10 +36,12 @@ We have:
 - Regular forest
 
 
-But I am from a place called Cairns and it is tropical. In cairns are rainforests, coral reefs, and tropical islands. It is very different to other places in Australia. 
+I am from a place called Cairns and there it is tropical. 
+In Cairns are rainforests, coral reefs, and tropical islands. It is very different to other places in Australia. Cairns is also a sister city of Riga.
+(photos)
 
 
-# Animals
+## Animals
 
 Australia is an island, seperated from the rest of the world, and so it has many unusual animals which are only found in Australia. Some of these animals include:
 
@@ -53,6 +57,39 @@ Australia is an island, seperated from the rest of the world, and so it has many
 - Sugar Glider
 - Dingo
 - Kookaburra
+
+## Christmas
+
+In Australia, Christmastime happens in the middle of Summer. Also, there are no reindeer in Australia. So in Australia, Santa Claus uses Kangaroos to deliver presents.
+( Six White Boomers )
+It is usual for families in Australia to have a barbeque at the beach for Christmas. 
+
+## Aboriginals
+
+The first people in Australia are known as Aboriginals. They have a very unique culture with lots of different languages, stories, and music. 
+
+One aboriginal musical instrument is called the didgeridoo
+
+### Didgeridoo
+
+(picture)
+
+The didgeridoo is mostly made by nature. The people would walk through the forest and knock on tree trunks until they found one which was hollow. Then
+they would cut down the tree and dry it, and then painted or carved. The sound, or "voice" of the didgeridoo is thought to be the spirit of the tree.
+
+To play the didgeridoo, you do not simply blow air into it, instead you make a buzzing sound with your lips. 
+
+
+### Aboriginal stories
+
+In Aboriginal tradition, the Didgeridoo was a very important traditional instrument and used to share stories. The sounds of a didgeridoo can imitate the
+sounds of an animal, or nature, or some event. There are very many aboriginal stories and often they are shared through songs. One of those stories is about 
+Tidalik the frog, who drank all the water in the world
+
+## Demonstrations
+
+- Fairy bread
+- Handball
 
 
 
