@@ -2,7 +2,7 @@
 
 ![Australian Coat of Arms](Australian_Coat_of_Arms.png)
 
- Australia is very far away from Latvia, almost on the other side of the world. 
+ ### Australia is very far away from Latvia, almost on the other side of the world. 
 
 ![Australia distance](Australia_distance.png)
 
