@@ -11,6 +11,8 @@ Sydney, the biggest city in Australia is approximately 15,000 Kilometers away fr
 To get to Australia would take one day in an airplane
 ![Qantas-A380-Sydney.png](Qantas-A380-Sydney.png)
 
+
+
 ## Australia is a very big country.
 
 ![Australia_satellite_plane](Australia_satellite_plane.jpg)
@@ -20,6 +22,8 @@ To get to Australia would take one day in an airplane
 - Australia is mostly desert
 - Most people live in the green areas in cities.
 - There are 25 million people in Australia. This is approximately 15 times more people than in Latvia, but still a small number of people compared to how big Australia is.
+
+
 
 ## Climate
 
